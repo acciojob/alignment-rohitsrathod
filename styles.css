@@ -1,1 +1,36 @@
-/*  your css code here. If applicable */
+.middle{
+	border: 1px solid black;
+	border-spacing: 1px;
+	margin: auto;
+	width: 96%;
+}
+#table-1{
+	border-collapse: collapse;
+}
+ 
+.center{
+	text-align: center;
+}
+ 
+.right{
+	text-align: right;
+}
+ 
+.green{
+	background-color: green;
+}
+ 
+.blue{
+	background-color: blue;
+}
+ 
+#t-image{
+	text-align: center;
+}
+ 
+/*  General css  */
+td{
+	padding: 1px;
+	border: 1px solid black;
+	height: 20px;
+}
